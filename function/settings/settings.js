@@ -21,7 +21,7 @@ global.info = {
  nameown : 'alqady',
  nomerown : '967716730746',
  packname : 'sticker by ',
- author : 'SILANA AI',
+ author : 'alqady AI',
  namebot : '乂 SILANA AI',
  wm : 'SILANA LITE.',
  stickpack : 'Whatsapp',
