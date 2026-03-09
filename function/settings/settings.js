@@ -18,7 +18,7 @@ global.info = {
  pairingNumber : '967716730746',
  figlet: 'silanalite', // create a start console display
  nomorwa : '967716730746',
- nameown : 'NOUREDDINE',
+ nameown : 'alqady',
  nomerown : '967716730746',
  packname : 'sticker by ',
  author : 'SILANA AI',
